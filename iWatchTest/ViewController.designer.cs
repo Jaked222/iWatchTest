@@ -15,10 +15,23 @@ namespace iWatchTest
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton myButton { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UILabel myLabel { get; set; }
+
+        [Action ("MyButton_TouchUpInside:")]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        partial void MyButton_TouchUpInside (UIKit.UIButton sender);
 
         void ReleaseDesignerOutlets ()
         {
+            if (myButton != null) {
+                myButton.Dispose ();
+                myButton = null;
+            }
+
             if (myLabel != null) {
                 myLabel.Dispose ();
                 myLabel = null;

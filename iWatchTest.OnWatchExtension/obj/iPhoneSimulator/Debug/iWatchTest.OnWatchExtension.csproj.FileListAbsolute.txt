@@ -8,11 +8,6 @@
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/iWatchTest.OnWatchExtension.csproj.CopyComplete
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/iWatchTestOnWatchExtension.dll
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/iWatchTestOnWatchExtension.pdb
-/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/actool/_PartialAppManifest.items
-/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/actool/_BundleResourceWithLogicalName.items
-/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/coremlc/_PartialAppManifest.items
-/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/coremlc/_BundleResourceWithLogicalName.items
-/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/optimized/
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhoneSimulator/Debug/ZKWeb.System.Drawing.dll
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhoneSimulator/Debug/zxing.dll
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhoneSimulator/Debug/ZXing.ZKWeb.System.Drawing.dll
@@ -21,3 +16,8 @@
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhoneSimulator/Debug/ZXing.ZKWeb.System.Drawing.pdb
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhoneSimulator/Debug/ZXing.ZKWeb.System.Drawing.xml
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/iWatchTest.OnWatchExtension.csprojAssemblyReference.cache
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/optimized/

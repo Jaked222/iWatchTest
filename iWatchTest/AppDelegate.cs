@@ -23,7 +23,47 @@ namespace iWatchTest
             // Add this...
             ZXing.Net.Mobile.Forms.iOS.Platform.Init();
 
+            if (UIDevice.CurrentDevice.CheckSystemVersion(8, 0))
+            {
+                var notificationSettings = UIUserNotificationSettings.GetSettingsForTypes(
+                    UIUserNotificationType.Alert | UIUserNotificationType.Badge | UIUserNotificationType.Sound, null
+                );
+
+                application.RegisterUserNotificationSettings(notificationSettings);
+            }
+
+            if (launchOptions != null)
+            {
+                // check for a local notification
+                if (launchOptions.ContainsKey(UIApplication.LaunchOptionsLocalNotificationKey))
+                {
+                    var localNotification = launchOptions[UIApplication.LaunchOptionsLocalNotificationKey] as UILocalNotification;
+                    if (localNotification != null)
+                    {
+                        UIAlertController okayAlertController = UIAlertController.Create(localNotification.AlertAction, localNotification.AlertBody, UIAlertControllerStyle.Alert);
+                        okayAlertController.AddAction(UIAlertAction.Create("OK", UIAlertActionStyle.Default, null));
+
+                        Window.RootViewController.PresentViewController(okayAlertController, true, null);
+
+                        // reset our badge
+                        UIApplication.SharedApplication.ApplicationIconBadgeNumber = 0;
+                    }
+                }
+            }
+
             return true;
+        }
+
+        public override void ReceivedLocalNotification(UIApplication application, UILocalNotification notification)
+        {
+            // show an alert
+            UIAlertController okayAlertController = UIAlertController.Create(notification.AlertAction, notification.AlertBody, UIAlertControllerStyle.Alert);
+            okayAlertController.AddAction(UIAlertAction.Create("OK", UIAlertActionStyle.Default, null));
+
+            UIApplication.SharedApplication.KeyWindow.RootViewController.PresentViewController(okayAlertController, true, null);
+
+            // reset our badge
+            UIApplication.SharedApplication.ApplicationIconBadgeNumber = 0;
         }
 
         public override void OnResignActivation(UIApplication application)

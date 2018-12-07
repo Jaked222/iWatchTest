@@ -5,13 +5,14 @@
   <MonoDevelop.Ide.ItemProperties.iWatchTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A6500BE1-0DC9-4C70-898C-40D15B82808D">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.iWatchTest>
-  <MonoDevelop.Ide.Workbench ActiveDocument="iWatchTest.OnWatchExtension/BarcodeRenderer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iWatchTest/AppDelegate.cs">
     <Files>
       <File FileName="iWatchTest.OnWatch/Interface.storyboard" />
       <File FileName="iWatchTest.OnWatchExtension/InterfaceController.cs" Line="34" Column="41" />
       <File FileName="iWatchTest/Main.storyboard" />
-      <File FileName="iWatchTest/ViewController.cs" Line="29" Column="47" />
-      <File FileName="iWatchTest.OnWatchExtension/BarcodeRenderer.cs" Line="9" Column="18" />
+      <File FileName="iWatchTest/ViewController.cs" Line="63" Column="85" />
+      <File FileName="iWatchTest.OnWatchExtension/BarcodeRenderer.cs" Line="33" Column="49" />
+      <File FileName="iWatchTest/AppDelegate.cs" Line="34" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatch PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.946BFBA2-5161-4FD4-B5C1-00D2DEAD8910">

@@ -25,10 +25,19 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="5329" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="184" y="353" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <action selector="MyButton_TouchUpInside:" destination="BYZ-38-t0r" id="5334" eventType="touchUpInside"/>
+                                </connections>
+                            </button>
                         </subviews>
                     </view>
                     <connections>
                         <outlet property="myLabel" destination="785" id="name-outlet-785"/>
+                        <outlet property="myButton" destination="5329" id="name-outlet-5329"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

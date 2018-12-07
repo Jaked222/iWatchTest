@@ -17,9 +17,11 @@
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/System.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/System.Xml.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/Xamarin.WatchOS.dll
+-r=/Volumes/Data/Projects/iWatchTest/packages/ZKWeb.System.Drawing.4.0.1/lib/netstandard2.0/ZKWeb.System.Drawing.dll
+-r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.0.16.4/lib/netstandard2.0/zxing.dll
 -r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.Mobile.2.4.1/lib/netstandard1.0/ZXing.Net.Mobile.Core.dll
 -r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.Mobile.Forms.2.4.1/lib/netstandard1.0/ZXing.Net.Mobile.Forms.dll
--r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.Mobile.2.4.1/lib/netstandard1.0/zxing.portable.dll
+-r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.Bindings.ZKWeb.System.Drawing.0.16.4/lib/netstandard2.0/ZXing.ZKWeb.System.Drawing.dll
 -r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.Mobile.2.4.1/lib/netstandard1.0/ZXingNetMobile.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/Facades/Microsoft.Win32.Primitives.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/Facades/Microsoft.Win32.Registry.AccessControl.dll
@@ -162,10 +164,13 @@
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/Facades/System.Xml.XPath.XDocument.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/Facades/System.Xml.XPath.XmlDocument.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/Facades/System.Xml.Xsl.Primitives.dll
+-r=/Volumes/Data/Projects/iWatchTest/packages/ZKWeb.System.Drawing.4.0.1/lib/netstandard2.0/ZKWeb.System.Drawing.dll
+-r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.0.16.4/lib/netstandard2.0/zxing.dll
 -r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.Mobile.2.4.1/lib/netstandard1.0/ZXing.Net.Mobile.Core.dll
 -r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.Mobile.Forms.2.4.1/lib/netstandard1.0/ZXing.Net.Mobile.Forms.dll
--r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.Mobile.2.4.1/lib/netstandard1.0/zxing.portable.dll
+-r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.Bindings.ZKWeb.System.Drawing.0.16.4/lib/netstandard2.0/ZXing.ZKWeb.System.Drawing.dll
 -r=/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.Mobile.2.4.1/lib/netstandard1.0/ZXingNetMobile.dll
+-r=/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhoneSimulator/Debug/zxing.portable.dll
 --target-framework=Xamarin.WatchOS,v1.0
 --root-assembly=/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhoneSimulator/Debug/iWatchTestOnWatchExtension.dll
 
