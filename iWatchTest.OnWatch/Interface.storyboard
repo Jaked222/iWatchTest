@@ -9,16 +9,19 @@
         <!--Interface Controller-->
         <scene sceneID="aou-V4-d1y">
             <objects>
-                <controller id="AgC-eL-Hgc" customClass="InterfaceController">
+                <controller id="AgC-eL-Hgc" customClass="InterfaceController" identifier="interfaceController" title="Hi Watch">
                     <items>
-                        <label alignment="left" text="My watch app!" id="44" width="146" height="42"/>
+                        <label alignment="left" text="unclicked" id="44" width="146" height="42"/>
                         <button width="1" alignment="left" title="Push me" id="45">
                             <connections>
-                                <action selector="WKInterfaceButton45_Activated" destination="AgC-eL-Hgc" id="46"/>
-                                <segue id="127" destination="106" kind="modal"/>
+                                <action selector="OnButtonPress" destination="AgC-eL-Hgc" id="179"/>
                             </connections>
                         </button>
                     </items>
+                    <connections>
+                        <outlet property="myLabel" destination="44" id="name-outlet-44"/>
+                        <outlet property="myButton" destination="45" id="name-outlet-45"/>
+                    </connections>
                 </controller>
             </objects>
             <point key="canvasLocation" x="-25" y="-160"/>

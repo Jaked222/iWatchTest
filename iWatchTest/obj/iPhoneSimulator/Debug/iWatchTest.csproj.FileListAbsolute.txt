@@ -6,7 +6,6 @@
 /Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_PartialAppManifest.items
 /Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_BundleResourceWithLogicalName.items
 /Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/
-/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhoneSimulator/Debug/iWatchTest.csprojAssemblyReference.cache
 /Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhoneSimulator/Debug/iWatchTest.csproj.CoreCompileInputs.cache
 /Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhoneSimulator/Debug/iWatchTest.exe
 /Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhoneSimulator/Debug/iWatchTest.pdb

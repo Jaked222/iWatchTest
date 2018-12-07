@@ -7,6 +7,13 @@ namespace iWatchTest.OnWatchExtension
 {
     public partial class InterfaceController : WKInterfaceController
     {
+        int clickCount = 0;
+        partial void OnButtonPress()
+        {
+            var msg = String.Format("Clicked {0} times", ++clickCount);
+            myLabel.SetText(msg);
+        }
+
         protected InterfaceController(IntPtr handle) : base(handle)
         {
             // Note: this .ctor should not contain any initialization logic.
