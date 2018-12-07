@@ -1,0 +1,16 @@
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhoneSimulator/Debug/iWatchTestOnWatchExtension.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/../../32bits/Xamarin.WatchOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/System.Core.dll
+/Volumes/Data/Projects/iWatchTest/packages/ZXing.Net.Mobile.2.4.1/lib/netstandard1.0/zxing.portable.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/Facades/System.Runtime.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/System.ComponentModel.Composition.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/Facades/System.Collections.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/Facades/System.Text.Encoding.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/Facades/System.IO.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/Facades/System.Text.RegularExpressions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/Facades/System.Threading.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/Facades/System.Runtime.Extensions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.WatchOS/Facades/System.Globalization.dll

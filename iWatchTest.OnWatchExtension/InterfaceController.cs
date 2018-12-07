@@ -2,18 +2,14 @@
 
 using WatchKit;
 using Foundation;
+using ZXing;
+using UIKit;
+using ZXing.Common;
 
 namespace iWatchTest.OnWatchExtension
 {
     public partial class InterfaceController : WKInterfaceController
     {
-        int clickCount = 0;
-        partial void OnButtonPress()
-        {
-            var msg = String.Format("Clicked {0} times", ++clickCount);
-            myLabel.SetText(msg);
-        }
-
         protected InterfaceController(IntPtr handle) : base(handle)
         {
             // Note: this .ctor should not contain any initialization logic.
@@ -25,6 +21,21 @@ namespace iWatchTest.OnWatchExtension
 
             // Configure interface objects here.
             Console.WriteLine("{0} awake with context", this);
+
+            var writer = new BarcodeWriter<UIImage>
+            {
+                Format = BarcodeFormat.QR_CODE,
+                Options = new EncodingOptions
+                {
+                    Height = 200,
+                    Width = 200,
+                    Margin = 0
+                },
+                Renderer = new BarcodeRenderer()
+            };
+
+            var img = writer.Write("jakefrom.space");
+            myImage.SetImage(img);
         }
 
         public override void WillActivate()

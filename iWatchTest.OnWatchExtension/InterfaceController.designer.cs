@@ -15,26 +15,13 @@ namespace iWatchTest.OnWatchExtension
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        WatchKit.WKInterfaceButton myButton { get; set; }
-
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        WatchKit.WKInterfaceLabel myLabel { get; set; }
-
-        [Action ("OnButtonPress")]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        partial void OnButtonPress ();
+        WatchKit.WKInterfaceImage myImage { get; set; }
 
         void ReleaseDesignerOutlets ()
         {
-            if (myButton != null) {
-                myButton.Dispose ();
-                myButton = null;
-            }
-
-            if (myLabel != null) {
-                myLabel.Dispose ();
-                myLabel = null;
+            if (myImage != null) {
+                myImage.Dispose ();
+                myImage = null;
             }
         }
     }

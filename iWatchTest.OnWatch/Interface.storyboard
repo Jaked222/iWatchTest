@@ -11,16 +11,10 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="InterfaceController" identifier="interfaceController" title="Hi Watch">
                     <items>
-                        <label alignment="left" text="unclicked" id="44" width="146" height="42"/>
-                        <button width="1" alignment="left" title="Push me" id="45">
-                            <connections>
-                                <action selector="OnButtonPress" destination="AgC-eL-Hgc" id="179"/>
-                            </connections>
-                        </button>
+                        <imageView alignment="left" id="989" width="144" height="124"/>
                     </items>
                     <connections>
-                        <outlet property="myLabel" destination="44" id="name-outlet-44"/>
-                        <outlet property="myButton" destination="45" id="name-outlet-45"/>
+                        <outlet property="myImage" destination="989" id="name-outlet-989"/>
                     </connections>
                 </controller>
             </objects>
@@ -53,11 +47,7 @@
         </scene>
         <scene sceneID="105">
             <objects>
-                <controller id="106" customClass="ModalInterfaceController">
-                    <items>
-                        <label alignment="left" text="some sort of label" id="129" width="124" height="82"/>
-                    </items>
-                </controller>
+                <controller id="106" customClass="ModalInterfaceController"/>
             </objects>
             <point key="canvasLocation" x="349" y="-160"/>
         </scene>
