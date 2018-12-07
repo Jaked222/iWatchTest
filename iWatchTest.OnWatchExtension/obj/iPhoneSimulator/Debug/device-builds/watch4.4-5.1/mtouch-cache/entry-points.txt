@@ -1,0 +1,281 @@
+Function=xamarin_timezone_get_names
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_get_locale_country_code
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_get_block_descriptor
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix2_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix2_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix2_objc_msgSend_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix2_objc_msgSendSuper_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_localized_string_format
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_localized_string_format_1
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_localized_string_format_2
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_localized_string_format_3
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_localized_string_format_4
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_localized_string_format_5
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_localized_string_format_6
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_localized_string_format_7
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_localized_string_format_8
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_localized_string_format_9
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_init_nsthread
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=CreateZStream
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

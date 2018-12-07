@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{7128CF0A-56BC-4084-B89A-22087371577C}|Default">
+  <MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatchExtension>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatchExtension>
+  <MonoDevelop.Ide.ItemProperties.iWatchTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A6500BE1-0DC9-4C70-898C-40D15B82808D">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.iWatchTest>
+  <MonoDevelop.Ide.Workbench ActiveDocument="iWatchTest.OnWatch/Interface.storyboard">
+    <Files>
+      <File FileName="iWatchTest/AppDelegate.cs" Line="9" Column="53" />
+      <File FileName="iWatchTest.OnWatch/Interface.storyboard" />
+      <File FileName="iWatchTest.OnWatchExtension/InterfaceController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatch PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.946BFBA2-5161-4FD4-B5C1-00D2DEAD8910">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatch>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
