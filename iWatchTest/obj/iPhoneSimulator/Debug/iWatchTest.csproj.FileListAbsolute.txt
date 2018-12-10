@@ -60,3 +60,4 @@
 /Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhoneSimulator/Debug/iWatchTest.csproj.CopyComplete
 /Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhoneSimulator/Debug/iWatchTest.exe
 /Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhoneSimulator/Debug/iWatchTest.pdb
+/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhoneSimulator/Debug/iWatchTest.csprojAssemblyReference.cache

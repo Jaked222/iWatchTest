@@ -1,23 +1,20 @@
 ﻿<Properties StartupConfiguration="{7128CF0A-56BC-4084-B89A-22087371577C}|Default">
-  <MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatchExtension>
-    <MonoDevelop.MacDev.AppleDevelopmentTeam />
-  </MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatchExtension>
-  <MonoDevelop.Ide.ItemProperties.iWatchTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A6500BE1-0DC9-4C70-898C-40D15B82808D">
-    <MonoDevelop.MacDev.AppleDevelopmentTeam />
-  </MonoDevelop.Ide.ItemProperties.iWatchTest>
-  <MonoDevelop.Ide.Workbench ActiveDocument="iWatchTest/AppDelegate.cs">
+  <MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatchExtension automaticSigning="False" />
+  <MonoDevelop.Ide.ItemProperties.iWatchTest automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A6500BE1-0DC9-4C70-898C-40D15B82808D" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iWatchTest.OnWatchExtension/Info.plist">
     <Files>
       <File FileName="iWatchTest.OnWatch/Interface.storyboard" />
-      <File FileName="iWatchTest.OnWatchExtension/InterfaceController.cs" Line="34" Column="41" />
-      <File FileName="iWatchTest/Main.storyboard" />
-      <File FileName="iWatchTest/ViewController.cs" Line="63" Column="85" />
-      <File FileName="iWatchTest.OnWatchExtension/BarcodeRenderer.cs" Line="33" Column="49" />
-      <File FileName="iWatchTest/AppDelegate.cs" Line="34" Column="13" />
+      <File FileName="iWatchTest.OnWatchExtension/InterfaceController.cs" Line="104" Column="1" />
+      <File FileName="iWatchTest.OnWatchExtension/WorkoutDelegate.cs" Line="8" Column="26" />
+      <File FileName="iWatchTest.OnWatchExtension/Info.plist" />
+      <File FileName="iWatchTest.OnWatch/Info.plist" />
+      <File FileName="iWatchTest/Info.plist" />
+      <File FileName="iWatchTest.OnWatchExtension/ExtensionDelegate.cs" Line="32" Column="1" />
+      <File FileName="iWatchTest.OnWatch/Entitlements.plist" />
+      <File FileName="iWatchTest.OnWatchExtension/Entitlements.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatch PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.946BFBA2-5161-4FD4-B5C1-00D2DEAD8910">
-    <MonoDevelop.MacDev.AppleDevelopmentTeam />
-  </MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatch>
+  <MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatch automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.946BFBA2-5161-4FD4-B5C1-00D2DEAD8910" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

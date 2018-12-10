@@ -5,11 +5,15 @@ using Foundation;
 using ZXing;
 using UIKit;
 using ZXing.Common;
+using HealthKit;
 
 namespace iWatchTest.OnWatchExtension
 {
     public partial class InterfaceController : WKInterfaceController
     {
+        public HKHealthStore HealthStore { get; set; } = new HKHealthStore();
+        public WorkoutDelegate RunDelegate { get; set; }
+
         protected InterfaceController(IntPtr handle) : base(handle)
         {
             // Note: this .ctor should not contain any initialization logic.
@@ -36,6 +40,8 @@ namespace iWatchTest.OnWatchExtension
 
             var img = writer.Write("jakefrom.space");
             myImage.SetImage(img);
+
+            StartOutdoorRun();
         }
 
         public override void WillActivate()
@@ -48,6 +54,50 @@ namespace iWatchTest.OnWatchExtension
         {
             // This method is called when the watch view controller is no longer visible to the user.
             Console.WriteLine("{0} did deactivate", this);
+        }
+
+        private void StartOutdoorRun()
+        {
+            // Create a workout configuration
+            var configuration = new HKWorkoutConfiguration()
+            {
+                ActivityType = HKWorkoutActivityType.Running,
+                LocationType = HKWorkoutSessionLocationType.Outdoor
+            };
+
+            // Create workout session
+            // Start workout session
+            NSError error = null;
+            var workoutSession = new HKWorkoutSession(configuration, out error);
+
+            // Successful?
+            if (error != null)
+            {
+                // Report error to user and return
+                return;
+            }
+
+            // Create workout session delegate and wire-up events
+            RunDelegate = new WorkoutDelegate(HealthStore, workoutSession);
+
+            RunDelegate.Failed += () => {
+                System.Diagnostics.Debug.WriteLine("Failed");
+            };
+
+            RunDelegate.Paused += () => {
+                System.Diagnostics.Debug.WriteLine("Paused");
+            };
+
+            RunDelegate.Running += () => {
+                System.Diagnostics.Debug.WriteLine("Running");
+            };
+
+            RunDelegate.Ended += () => {
+                System.Diagnostics.Debug.WriteLine("Ended");
+            };
+
+            // Start session
+            HealthStore.StartWorkoutSession(workoutSession);
         }
     }
 }

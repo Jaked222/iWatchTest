@@ -14,5 +14,8 @@ namespace iWatchTest.OnWatchExtension
     [Register ("ModalInterfaceController")]
     partial class ModalInterfaceController
     {
+        void ReleaseDesignerOutlets ()
+        {
+        }
     }
 }
