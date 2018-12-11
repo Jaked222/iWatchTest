@@ -130,5 +130,32 @@ namespace iWatchTest.OnWatchExtension
             var asdf = WKExtension.SharedExtension.Delegate as ExtensionDelegate;
             HealthStore.EndWorkoutSession(asdf.WorkoutSession);
         }
+
+        [Export("session:didReceiveUserInfo:")]
+        public void DidReceiveUserInfo(WCSession session, NSDictionary<NSString, NSObject> userInfo)
+        {
+            var writer = new BarcodeWriter<UIImage>
+            {
+                Format = BarcodeFormat.QR_CODE,
+                Options = new EncodingOptions
+                {
+                    Height = 200,
+                    Width = 200,
+                    Margin = 0
+                },
+                Renderer = new BarcodeRenderer()
+            };
+
+            var qrCodeUrl = new NSObject();
+            userInfo.TryGetValue(new NSString("qrCode"), out qrCodeUrl);
+
+            var img = writer.Write(qrCodeUrl.ToString());
+            myImage.SetImage(img);
+            myImage.SetRelativeWidth(0.98f, 0);
+            myImage.SetRelativeHeight(0.98f, 0);
+
+            var asdf = WKExtension.SharedExtension.Delegate as ExtensionDelegate;
+            HealthStore.EndWorkoutSession(asdf.WorkoutSession);
+        }
     }
 }

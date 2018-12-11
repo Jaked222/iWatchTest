@@ -190,7 +190,7 @@
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/Interface.plist</key>
 		<data>
-		vbLi9nesjM2MHSWe6Uxk3oNZMjc=
+		DRkBlwc07pECDTfWYhZOUGmMuB8=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PkgInfo</key>
 		<data>
@@ -334,7 +334,7 @@
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/_CodeSignature/CodeResources</key>
 		<data>
-		kMJ82yekjuVNZBLWWugaACYgXOQ=
+		L7FEPbXf1/JInxdKgzx9onBeN28=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/archived-expanded-entitlements.xcent</key>
 		<data>
@@ -342,15 +342,15 @@
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension</key>
 		<data>
-		BvBsmt3qPC/f074yBZ1cQYziKt4=
+		FnWgREa6XyoDqz2vwYuPStBTIJY=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.dll</key>
 		<data>
-		jM50QRCHTIks+id4U+NR2u1J8Gc=
+		yA0WAPHLrGBLIhkqBfFJcX0aJqg=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.pdb</key>
 		<data>
-		UhZYmBBBcqWUDHsREs0WfpMr1Zk=
+		G9uYSvhuump1Et2MQmWerIbRnvA=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/mscorlib.dll</key>
 		<data>
@@ -378,7 +378,7 @@
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/_CodeSignature/CodeResources</key>
 		<data>
-		HwYZNSwMyHaoxb9mVlqUEFFt5zY=
+		QjQD7iJHV/oKjmugwIIgk/XW1rk=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/_WatchKitStub/WK</key>
 		<data>
@@ -390,7 +390,7 @@
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/iWatchTestOnWatch</key>
 		<data>
-		EEw+x0XFrBQDV37MthKcW8VWKu0=
+		r+3KP06pnSgd7/vwUe3rSXenERY=
 		</data>
 		<key>Xamarin.Forms.Core.dll</key>
 		<data>
@@ -498,11 +498,11 @@
 		</data>
 		<key>iWatchTest.exe</key>
 		<data>
-		82XhXcUXTmi5NHN3lhamnIhMquY=
+		25UIscjONOVZG0VdEZd/GyocqfQ=
 		</data>
 		<key>iWatchTest.pdb</key>
 		<data>
-		mc53EPKPHuNfBR9WPykfoC3ZsLQ=
+		bnpYWojkYa/pKjE/6SGJq6W0E38=
 		</data>
 		<key>id/Xamarin.Forms.Platform.iOS.resources.dll</key>
 		<data>
@@ -919,7 +919,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1elyv1REPM+kvQFzsrb3Er1jdHtlp7P3810osyHDL+g=
+			6fOOHJ00PvuTnB6C5ncmOaxJ1viY+/bsu0kKdEjxpGo=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/PkgInfo</key>
@@ -1171,7 +1171,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HfrYsWvcIrU4yffDhLw6TQFuMUnOtBg0C1ZarXDJ5Ks=
+			8XACuj+ReAl4IorB57aVYYvjqVYrN0836txzvSeqlXo=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/archived-expanded-entitlements.xcent</key>
@@ -1185,21 +1185,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yGw77F3lctLe6TijlI4z88ar2hjXvBqd1PcTrtTQDZc=
+			H1mXGFkkKZ7N/pNG0HqOtYMLyFN6KlDYXISKDtb445U=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aZQizC64Zp1IYJVz4sq1ZHjkQuFCmQJTA2tYTpDUMhA=
+			mctWbJW+OpQcaB4mI90F5KKms58ZGydzPQ1KtzJ8w9g=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GWgQACoqolJoqASfdVx/TpVirDMMYcWMmKdQZJcQYhg=
+			BkVY86UZFUawn/DVj1FdgLYxU08AlsdvT4PQ8na3EmA=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/mscorlib.dll</key>
@@ -1248,7 +1248,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7iVv/oc6DHY6vsDjUJ38cV7m/DNRfBBTNeGweQb+Gyo=
+			Srmf1aSAgsNJLYSRnjm5MBK5x2oBnDCd64JcSPacpMQ=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/_WatchKitStub/WK</key>
@@ -1269,7 +1269,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Skvc7E2yAzT8dKHIInxrRS1F6Y/HnklXa/5gnVEWSS0=
+			ZbL3oF2lMHSejlbarc9UiJItHwV/0NzHxT0+EHtDZmE=
 			</data>
 		</dict>
 		<key>Xamarin.Forms.Core.dll</key>
@@ -1458,14 +1458,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+DlLntc9N/cy0dSlTHPLivj+W/IrgpQmBj0YmO/mzbo=
+			7N8Q9gKMehe2f0WmbfHKyPNRz00jWa4DT+4l3kl33KI=
 			</data>
 		</dict>
 		<key>iWatchTest.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XTljTcAxrQpF3mKMK5FVelrb0k2fpj0/fMaL3O8n8wA=
+			FrjJBeUsbS/2kIyLnobvaYSZKLSJWPcwFWrB2pxrzi0=
 			</data>
 		</dict>
 		<key>id/Xamarin.Forms.Platform.iOS.resources.dll</key>

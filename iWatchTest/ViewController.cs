@@ -93,14 +93,16 @@ namespace iWatchTest
             NSDictionary<NSString, NSObject> message = new NSDictionary<NSString, NSObject>(keys, objects);
 
             System.Diagnostics.Debug.WriteLine(ConnectivitySession.Reachable);
-            ConnectivitySession.SendMessage(message, 
-            (arg) => {
-                System.Diagnostics.Debug.WriteLine(arg);
-                 }, 
-            (arg) => {
-                System.Diagnostics.Debug.WriteLine(arg);
-            }
-            );
+            ConnectivitySession.TransferUserInfo(message);
+            //ConnectivitySession.SendMessage(message, 
+            //(arg) => {
+            //    System.Diagnostics.Debug.WriteLine(arg);
+            //     }, 
+            //(error) => {
+            //    System.Diagnostics.Debug.WriteLine("Failed to send message. " + error);
+
+            //}
+            //);
         }
 
         public override void DidReceiveMemoryWarning()
