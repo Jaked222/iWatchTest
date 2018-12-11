@@ -92,7 +92,6 @@ namespace iWatchTest
 
             NSDictionary<NSString, NSObject> message = new NSDictionary<NSString, NSObject>(keys, objects);
 
-            System.Diagnostics.Debug.WriteLine(ConnectivitySession.Reachable);
             ConnectivitySession.TransferUserInfo(message);
             //ConnectivitySession.SendMessage(message, 
             //(arg) => {
