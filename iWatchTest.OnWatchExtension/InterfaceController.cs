@@ -6,13 +6,15 @@ using ZXing;
 using UIKit;
 using ZXing.Common;
 using HealthKit;
+using WatchConnectivity;
 
 namespace iWatchTest.OnWatchExtension
 {
-    public partial class InterfaceController : WKInterfaceController
+    public partial class InterfaceController : WKInterfaceController, IWCSessionDelegate
     {
         public HKHealthStore HealthStore { get; set; } = new HKHealthStore();
         public WorkoutDelegate RunDelegate { get; set; }
+        public WCSession ConnectivitySession { get; set; } = WCSession.DefaultSession;
 
         protected InterfaceController(IntPtr handle) : base(handle)
         {
@@ -23,25 +25,27 @@ namespace iWatchTest.OnWatchExtension
         {
             base.Awake(context);
 
+            ConnectivitySession.Delegate = this;
+            ConnectivitySession.ActivateSession();
             // Configure interface objects here.
             Console.WriteLine("{0} awake with context", this);
 
-            var writer = new BarcodeWriter<UIImage>
-            {
-                Format = BarcodeFormat.QR_CODE,
-                Options = new EncodingOptions
-                {
-                    Height = 200,
-                    Width = 200,
-                    Margin = 0
-                },
-                Renderer = new BarcodeRenderer()
-            };
+            //var writer = new BarcodeWriter<UIImage>
+            //{
+            //    Format = BarcodeFormat.QR_CODE,
+            //    Options = new EncodingOptions
+            //    {
+            //        Height = 200,
+            //        Width = 200,
+            //        Margin = 0
+            //    },
+            //    Renderer = new BarcodeRenderer()
+            //};
 
-            var img = writer.Write("jakefrom.space");
-            myImage.SetImage(img);
+            //var img = writer.Write("jakefrom.space");
+            //myImage.SetImage(img);
 
-            StartOutdoorRun();
+            //StartOutdoorRun();
         }
 
         public override void WillActivate()
@@ -98,6 +102,31 @@ namespace iWatchTest.OnWatchExtension
 
             // Start session
             HealthStore.StartWorkoutSession(workoutSession);
+        }
+
+        [Export("session:didReceiveMessage:replyHandler:")]
+        public void DidReceiveMessage(WCSession session, NSDictionary<NSString, NSObject> message, WCSessionReplyHandler replyHandler)
+        {
+            var writer = new BarcodeWriter<UIImage>
+            {
+                Format = BarcodeFormat.QR_CODE,
+                Options = new EncodingOptions
+                {
+                    Height = 200,
+                    Width = 200,
+                    Margin = 0
+                },
+                Renderer = new BarcodeRenderer()
+            };
+
+            var qrCodeUrl = new NSObject();
+            message.TryGetValue(new NSString("qrCode"), out qrCodeUrl);
+
+            var img = writer.Write(qrCodeUrl.ToString());
+            myImage.SetImage(img);
+
+            var asdf = WKExtension.SharedExtension.Delegate as ExtensionDelegate;
+            HealthStore.EndWorkoutSession(asdf.WorkoutSession);
         }
     }
 }

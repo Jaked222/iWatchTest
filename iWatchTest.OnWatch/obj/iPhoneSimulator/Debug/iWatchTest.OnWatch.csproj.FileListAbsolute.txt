@@ -9,4 +9,3 @@
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhoneSimulator/Debug/iWatchTest.OnWatch.csproj.CoreCompileInputs.cache
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhoneSimulator/Debug/iWatchTestOnWatch.dll
 /Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhoneSimulator/Debug/iWatchTestOnWatch.pdb
-/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhoneSimulator/Debug/iWatchTest.OnWatch.csprojAssemblyReference.cache

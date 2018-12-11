@@ -36,10 +36,6 @@
 		<data>
 		nrVMGKClE6pvxn6IcBgG4it6i0A=
 		</data>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Collections.dll</key>
-		<data>
-		GxsQCYqVhgijoeQ87k/OWU13xcE=
-		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.ComponentModel.Composition.dll</key>
 		<data>
 		x7YCpyMGLIpj73LSFJQCQ8LC3bY=
@@ -64,10 +60,6 @@
 		<data>
 		9BTdIHpAGCjHUdLU9CFz/FX35wY=
 		</data>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Globalization.dll</key>
-		<data>
-		Gdq4TOoA0eWb3hlxVeSl1Xnbo4s=
-		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.IO.Compression.FileSystem.dll</key>
 		<data>
 		pTulMfyReJ7xh+8u/M3QKXphuzw=
@@ -83,10 +75,6 @@
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.IO.Compression.pdb</key>
 		<data>
 		Q/VrCKFSObSzx3koHm3m363Sfmw=
-		</data>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.IO.dll</key>
-		<data>
-		+Bnr35VJF0phHxCroQeVpNPJp9o=
 		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Net.Http.dll</key>
 		<data>
@@ -104,10 +92,6 @@
 		<data>
 		7fZi5SMKf2bFq6rOKzbaf1xlfR0=
 		</data>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Runtime.Extensions.dll</key>
-		<data>
-		jQ8LRlxOlZL9GMnhrtGRb0nXEjM=
-		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Runtime.Serialization.dll</key>
 		<data>
 		hKl9oeP0c5WY67+VTOT1dBLY2is=
@@ -116,10 +100,6 @@
 		<data>
 		+j/hWtqwlU2VzIHuYN+IuHhJXNo=
 		</data>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Runtime.dll</key>
-		<data>
-		8qGt4fyFaYw9r2iZDtlTj7IzNvE=
-		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.ServiceModel.Internals.dll</key>
 		<data>
 		BNyPXTHtEVf+dpXuo3tYaiW356g=
@@ -127,18 +107,6 @@
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.ServiceModel.Internals.pdb</key>
 		<data>
 		oq8hAPN9BF15Ln6wM5qxOUmFQ00=
-		</data>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Text.Encoding.dll</key>
-		<data>
-		e3EpmmDdv6YH5hJRN4AbNuk3yHE=
-		</data>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Text.RegularExpressions.dll</key>
-		<data>
-		ziGghCfkI78CSwvNIeB8TAwI+kg=
-		</data>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Threading.dll</key>
-		<data>
-		KNJ9DhaqUNNkuiZLkpicT+eFwnA=
 		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Transactions.dll</key>
 		<data>
@@ -190,7 +158,7 @@
 		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/_CodeSignature/CodeResources</key>
 		<data>
-		hvLOveAhbmiVgMEeaTkugGsbpRQ=
+		wlibsPZSQ6hH7qbf//6eDf7WO54=
 		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/archived-expanded-entitlements.xcent</key>
 		<data>
@@ -198,15 +166,15 @@
 		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension</key>
 		<data>
-		sYcUqWLKlyUUPQtafE5nb0LU1T8=
+		4iE7Tze+o3S1hpi87rZ/I5Iu1j0=
 		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.dll</key>
 		<data>
-		eXdFHvJ2BuDpIrGtUEmN0TBJmTI=
+		crB5+Xvb0I4YmExqm8Ui9bMq/m4=
 		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.pdb</key>
 		<data>
-		ti4LTz3QzZC0S6nRCnVYKkEk4nE=
+		NlkpyWkMEhSkRv7+V4G+ilJEEkU=
 		</data>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/mscorlib.dll</key>
 		<data>
@@ -231,10 +199,6 @@
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/zxing.pdb</key>
 		<data>
 		ziKPzrhb5ISaEdUgkEbOxs5qcqk=
-		</data>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/zxing.portable.dll</key>
-		<data>
-		m/AQQ3soSaZVtDOfV9BH80Q7HYU=
 		</data>
 		<key>_WatchKitStub/WK</key>
 		<data>
@@ -313,17 +277,6 @@
 			zi1Y0A+tVNNfppRDjT3LpbeC+xDRJTirIvMQJ0HkgMQ=
 			</data>
 		</dict>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Collections.dll</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GxsQCYqVhgijoeQ87k/OWU13xcE=
-			</data>
-			<key>hash2</key>
-			<data>
-			9Js35O3nQoM7MQ86XZ9/moVUiWuwMw2Z5W09fdHiQVk=
-			</data>
-		</dict>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.ComponentModel.Composition.dll</key>
 		<dict>
 			<key>hash</key>
@@ -390,17 +343,6 @@
 			4rwb0gIRqmNxK9VDAIHVTzpLdDKIDcpUZLO33f5Ol6o=
 			</data>
 		</dict>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Globalization.dll</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Gdq4TOoA0eWb3hlxVeSl1Xnbo4s=
-			</data>
-			<key>hash2</key>
-			<data>
-			jQ2INdUJcZD2umRku7asXw44kHkmqxiAZZ3sy32Pg9E=
-			</data>
-		</dict>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.IO.Compression.FileSystem.dll</key>
 		<dict>
 			<key>hash</key>
@@ -443,17 +385,6 @@
 			<key>hash2</key>
 			<data>
 			hikgqBxG+g132B039SeHXvQbZYJ147PXk35NNM4uczs=
-			</data>
-		</dict>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.IO.dll</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+Bnr35VJF0phHxCroQeVpNPJp9o=
-			</data>
-			<key>hash2</key>
-			<data>
-			vzLnnOJfJGT7CvSqTsszsUxln4ihql7KKXQ/MvlAajM=
 			</data>
 		</dict>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Net.Http.dll</key>
@@ -500,17 +431,6 @@
 			FM13CTweyh44QWrxIWhaI7fEancStzp7Dj04fc1+2BI=
 			</data>
 		</dict>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Runtime.Extensions.dll</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jQ8LRlxOlZL9GMnhrtGRb0nXEjM=
-			</data>
-			<key>hash2</key>
-			<data>
-			C2R4NYnTPTI5pzrr+rNnr+TbA9J/rkNxrcHUypO65hY=
-			</data>
-		</dict>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Runtime.Serialization.dll</key>
 		<dict>
 			<key>hash</key>
@@ -533,17 +453,6 @@
 			CnaHTYWRfOa+EEcRzwK0oua+C9u2bjmR1Xt1HcEcS4A=
 			</data>
 		</dict>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Runtime.dll</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8qGt4fyFaYw9r2iZDtlTj7IzNvE=
-			</data>
-			<key>hash2</key>
-			<data>
-			nK/lPT9DOPXrIOH8R8Keuz2MqhRLW2Lj+j3zGTmIpww=
-			</data>
-		</dict>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.ServiceModel.Internals.dll</key>
 		<dict>
 			<key>hash</key>
@@ -564,39 +473,6 @@
 			<key>hash2</key>
 			<data>
 			X+Bjs8rC5VAqnByuFRMbVWGcCJgEhRfeEsNcGPWCmuc=
-			</data>
-		</dict>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Text.Encoding.dll</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			e3EpmmDdv6YH5hJRN4AbNuk3yHE=
-			</data>
-			<key>hash2</key>
-			<data>
-			8npk9XG7UPLXIaiFTh/kyVL9u6efAhMmOJryutKi87c=
-			</data>
-		</dict>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Text.RegularExpressions.dll</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ziGghCfkI78CSwvNIeB8TAwI+kg=
-			</data>
-			<key>hash2</key>
-			<data>
-			BVirVCg0HIkqsntJVGxqoiTd1DhGoYWfhLNHREJCjNk=
-			</data>
-		</dict>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Threading.dll</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KNJ9DhaqUNNkuiZLkpicT+eFwnA=
-			</data>
-			<key>hash2</key>
-			<data>
-			+A2Zzz7P5Lb0MpURpU8ZY3TtPuCKxD03+c3682Nj24I=
 			</data>
 		</dict>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/System.Transactions.dll</key>
@@ -735,11 +611,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hvLOveAhbmiVgMEeaTkugGsbpRQ=
+			wlibsPZSQ6hH7qbf//6eDf7WO54=
 			</data>
 			<key>hash2</key>
 			<data>
-			JOP6VoDWddqxk6XmMxulOGU3KjgC8n7vIgyntwCt2nY=
+			7h4d9PYypPBw2luXFEehf0lFdOC4cpxu/f9e0uUn7zo=
 			</data>
 		</dict>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/archived-expanded-entitlements.xcent</key>
@@ -757,33 +633,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sYcUqWLKlyUUPQtafE5nb0LU1T8=
+			4iE7Tze+o3S1hpi87rZ/I5Iu1j0=
 			</data>
 			<key>hash2</key>
 			<data>
-			SEv2IDjYyFnWC9owC8QSKXrbJ5Bu9F1mKIJm/PcliPE=
+			SUDGuJAXgLdfyqvbdKVY/GdMxF670cJAiX2Gjrnc4PI=
 			</data>
 		</dict>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.dll</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eXdFHvJ2BuDpIrGtUEmN0TBJmTI=
+			crB5+Xvb0I4YmExqm8Ui9bMq/m4=
 			</data>
 			<key>hash2</key>
 			<data>
-			r2sC2nLprJ0o9YPAih8OcN0l9FtrUEm1fffF++L8YA4=
+			RkIItRF9FMoFzqAWxK6lnc3MgiXI8wbg7PaDAj9nJtc=
 			</data>
 		</dict>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.pdb</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ti4LTz3QzZC0S6nRCnVYKkEk4nE=
+			NlkpyWkMEhSkRv7+V4G+ilJEEkU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ezM+pxPgkaF95cs8zrR5RebjNWXBPlsbH8i4nEGvNmM=
+			W6Le6ziobMBw5uI/Aqc1W867Xxw15QCOmCONtWk9Odk=
 			</data>
 		</dict>
 		<key>PlugIns/iWatchTestOnWatchExtension.appex/mscorlib.dll</key>
@@ -850,17 +726,6 @@
 			<key>hash2</key>
 			<data>
 			Jvw5v1O8hXqo/zmf0jor0NHld59DS5zptCPM19tcXOk=
-			</data>
-		</dict>
-		<key>PlugIns/iWatchTestOnWatchExtension.appex/zxing.portable.dll</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			m/AQQ3soSaZVtDOfV9BH80Q7HYU=
-			</data>
-			<key>hash2</key>
-			<data>
-			6UYpqKGwk4yEF8I8ZQc1ByFISf+fIDcWyQumvtQ8z04=
 			</data>
 		</dict>
 		<key>_WatchKitStub/WK</key>
