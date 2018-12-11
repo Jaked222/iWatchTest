@@ -1,0 +1,31 @@
+Function=xamarin_timezone_get_data
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/System.dll
+Function=CreateZStream
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Volumes/Data/Projects/iWatchTest/iWatchTest/obj/iPhone/Debug/device-builds/iphone8.1-12.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip

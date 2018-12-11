@@ -1,0 +1,7 @@
+RemoveDynamicRegistrar:true
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhone/Debug/iWatchTestOnWatchExtension.appex:/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/iWatchTestOnWatchExtension.dll
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhone/Debug/iWatchTestOnWatchExtension.appex:/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhone/Debug/iWatchTestOnWatchExtension.appex:/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhone/Debug/iWatchTestOnWatchExtension.appex:/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/System.dll
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhone/Debug/iWatchTestOnWatchExtension.appex:/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/zxing.dll
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/bin/iPhone/Debug/iWatchTestOnWatchExtension.appex:/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/System.Numerics.dll

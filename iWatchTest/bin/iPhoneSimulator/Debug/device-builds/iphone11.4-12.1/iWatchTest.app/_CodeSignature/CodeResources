@@ -190,7 +190,7 @@
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/Interface.plist</key>
 		<data>
-		Q9PirOJdcBptt8GO70TCxcFPsbw=
+		vbLi9nesjM2MHSWe6Uxk3oNZMjc=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PkgInfo</key>
 		<data>
@@ -334,7 +334,7 @@
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/_CodeSignature/CodeResources</key>
 		<data>
-		wlibsPZSQ6hH7qbf//6eDf7WO54=
+		kMJ82yekjuVNZBLWWugaACYgXOQ=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/archived-expanded-entitlements.xcent</key>
 		<data>
@@ -342,15 +342,15 @@
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension</key>
 		<data>
-		4iE7Tze+o3S1hpi87rZ/I5Iu1j0=
+		BvBsmt3qPC/f074yBZ1cQYziKt4=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.dll</key>
 		<data>
-		crB5+Xvb0I4YmExqm8Ui9bMq/m4=
+		jM50QRCHTIks+id4U+NR2u1J8Gc=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.pdb</key>
 		<data>
-		NlkpyWkMEhSkRv7+V4G+ilJEEkU=
+		UhZYmBBBcqWUDHsREs0WfpMr1Zk=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/mscorlib.dll</key>
 		<data>
@@ -378,7 +378,7 @@
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/_CodeSignature/CodeResources</key>
 		<data>
-		YPtX0pf2CMFc5k5MQBQaj8NqfE0=
+		HwYZNSwMyHaoxb9mVlqUEFFt5zY=
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/_WatchKitStub/WK</key>
 		<data>
@@ -390,7 +390,7 @@
 		</data>
 		<key>Watch/iWatchTestOnWatch.app/iWatchTestOnWatch</key>
 		<data>
-		EYWvqTnq3BMNzXQ8qcS+NbiG51k=
+		EEw+x0XFrBQDV37MthKcW8VWKu0=
 		</data>
 		<key>Xamarin.Forms.Core.dll</key>
 		<data>
@@ -919,7 +919,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GfJKo/GbCdEDRDq/ZgcRpy0DOlCfGvLi6erOeu335WU=
+			1elyv1REPM+kvQFzsrb3Er1jdHtlp7P3810osyHDL+g=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/PkgInfo</key>
@@ -1171,7 +1171,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7h4d9PYypPBw2luXFEehf0lFdOC4cpxu/f9e0uUn7zo=
+			HfrYsWvcIrU4yffDhLw6TQFuMUnOtBg0C1ZarXDJ5Ks=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/archived-expanded-entitlements.xcent</key>
@@ -1185,21 +1185,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SUDGuJAXgLdfyqvbdKVY/GdMxF670cJAiX2Gjrnc4PI=
+			yGw77F3lctLe6TijlI4z88ar2hjXvBqd1PcTrtTQDZc=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RkIItRF9FMoFzqAWxK6lnc3MgiXI8wbg7PaDAj9nJtc=
+			aZQizC64Zp1IYJVz4sq1ZHjkQuFCmQJTA2tYTpDUMhA=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/iWatchTestOnWatchExtension.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W6Le6ziobMBw5uI/Aqc1W867Xxw15QCOmCONtWk9Odk=
+			GWgQACoqolJoqASfdVx/TpVirDMMYcWMmKdQZJcQYhg=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/PlugIns/iWatchTestOnWatchExtension.appex/mscorlib.dll</key>
@@ -1248,7 +1248,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MXJ5qW5QroIW1jAi+ebWjL7RvRUDB1I+vMi5zzDnc3s=
+			7iVv/oc6DHY6vsDjUJ38cV7m/DNRfBBTNeGweQb+Gyo=
 			</data>
 		</dict>
 		<key>Watch/iWatchTestOnWatch.app/_WatchKitStub/WK</key>
@@ -1269,7 +1269,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HeKl/bKFPzG+8BoAzx0thKRyl83IWYgEykU4dE/R4Q4=
+			Skvc7E2yAzT8dKHIInxrRS1F6Y/HnklXa/5gnVEWSS0=
 			</data>
 		</dict>
 		<key>Xamarin.Forms.Core.dll</key>

@@ -1,0 +1,11 @@
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/bin/iPhone/Debug/iWatchTestOnWatch.dll
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/bin/iPhone/Debug/iWatchTestOnWatch.pdb
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhone/Debug/coremlc/_PartialAppManifest.items
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhone/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhone/Debug/optimized/
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhone/Debug/iWatchTest.OnWatch.csproj.CoreCompileInputs.cache
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhone/Debug/iWatchTestOnWatch.dll
+/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatch/obj/iPhone/Debug/iWatchTestOnWatch.pdb

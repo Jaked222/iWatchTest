@@ -1,20 +1,19 @@
-﻿<Properties StartupConfiguration="{7128CF0A-56BC-4084-B89A-22087371577C}|Default">
+﻿<Properties StartupConfiguration="{27EB0143-3C54-4C82-B5B0-B653E4AEF14B}|Default">
   <MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatchExtension automaticSigning="False" />
   <MonoDevelop.Ide.ItemProperties.iWatchTest automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A6500BE1-0DC9-4C70-898C-40D15B82808D" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="iWatchTest.OnWatchExtension/InterfaceController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iWatchTest.OnWatch/Interface.storyboard">
     <Files>
-      <File FileName="iWatchTest/ViewController.cs" Line="85" Column="17" />
-      <File FileName="iWatchTest.OnWatchExtension/ExtensionDelegate.cs" Line="70" Column="10" />
-      <File FileName="iWatchTest.OnWatchExtension/InterfaceController.cs" Line="121" Column="13" />
+      <File FileName="iWatchTest/ViewController.cs" Line="138" Column="26" />
+      <File FileName="iWatchTest.OnWatchExtension/ExtensionDelegate.cs" Line="74" Column="1" />
+      <File FileName="iWatchTest.OnWatchExtension/InterfaceController.cs" Line="116" Column="33" />
+      <File FileName="iWatchTest.OnWatch/Interface.storyboard" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.iWatchTest.OnWatch automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.946BFBA2-5161-4FD4-B5C1-00D2DEAD8910" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Volumes/Data/Projects/iWatchTest/iWatchTest.OnWatchExtension/InterfaceController.cs" relfile="iWatchTest.OnWatchExtension/InterfaceController.cs" line="122" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="two" Name="two">

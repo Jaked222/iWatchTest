@@ -9,9 +9,9 @@
         <!--Interface Controller-->
         <scene sceneID="aou-V4-d1y">
             <objects>
-                <controller id="AgC-eL-Hgc" customClass="InterfaceController" identifier="interfaceController" title="Hi Watch">
+                <controller id="AgC-eL-Hgc" customClass="InterfaceController" identifier="interfaceController" title="Sign in">
                     <items>
-                        <imageView alignment="left" id="989" width="144" height="124"/>
+                        <imageView alignment="left" id="989"/>
                     </items>
                     <connections>
                         <outlet property="myImage" destination="989" id="name-outlet-989"/>

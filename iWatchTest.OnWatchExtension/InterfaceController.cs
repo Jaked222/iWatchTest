@@ -124,6 +124,8 @@ namespace iWatchTest.OnWatchExtension
 
             var img = writer.Write(qrCodeUrl.ToString());
             myImage.SetImage(img);
+            myImage.SetRelativeWidth(0.98f, 0);
+            myImage.SetRelativeHeight(0.98f, 0);
 
             var asdf = WKExtension.SharedExtension.Delegate as ExtensionDelegate;
             HealthStore.EndWorkoutSession(asdf.WorkoutSession);
